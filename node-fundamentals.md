@@ -231,5 +231,5 @@ math.demoModuleWrapper();
   * First two lessons of [*Einf&uuml;hrung in Node.js*](https://vimeo.com/thenativeweb) (German)
 * Exercises
   * [*Hello World* tutorial for VSCode + Node.js](https://code.visualstudio.com/docs/nodejs/nodejs-tutorial#_hello-world)
-  * [*Caesar Cipher exercise*](https://github.com/rstropek/2018-08-ng-training/blob/master/node-fundamentals/9010-lab-caesar/readme.md)
-  * [*Converter* Quiz](https://github.com/rstropek/2018-08-ng-training/tree/master/node-fundamentals/9030-converter)
+  * [*Caesar Cipher exercise*](https://github.com/rstropek/2018-10-ng-training/blob/master/node-fundamentals/9010-lab-caesar/readme.md)
+  * [*Converter* Quiz](https://github.com/rstropek/2018-10-ng-training/tree/master/node-fundamentals/9030-converter)
