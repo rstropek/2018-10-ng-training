@@ -6,5 +6,5 @@ Based on the [CoderDojo example *Zahlen raten*](http://coderdojo-linz.github.io/
 
 ## Sample Solutions
 
-* You can find a sample solution without a sub-component for displaying the result, see folder [without-component](https://github.com/rstropek/2018-08-ng-training/tree/master/angular/9030-number-guessing/without-component).
-* You can find a sample solution *with a sub-component* for displaying the result, see folder [with-component](https://github.com/rstropek/2018-08-ng-training/tree/master/angular/9030-number-guessing/with-component).
+* You can find a sample solution without a sub-component for displaying the result, see folder [without-component](https://github.com/rstropek/2018-10-ng-training/tree/master/angular/9030-number-guessing/without-component).
+* You can find a sample solution *with a sub-component* for displaying the result, see folder [with-component](https://github.com/rstropek/2018-10-ng-training/tree/master/angular/9030-number-guessing/with-component).

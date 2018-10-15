@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rstropek/2018-08-ng-training.git"
+    "url": "git+https://github.com/rstropek/2018-10-ng-training.git"
   },
   "author": "Rainer Stropek",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rstropek/2018-08-ng-training/issues"
+    "url": "https://github.com/rstropek/2018-10-ng-training/issues"
   },
-  "homepage": "https://github.com/rstropek/2018-08-ng-training#readme"
+  "homepage": "https://github.com/rstropek/2018-10-ng-training#readme"
 }

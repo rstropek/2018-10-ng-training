@@ -4,8 +4,8 @@ This repository contains material for the WebDev training.
 
 ## View Material
 
-* [Open in browser](https://rstropek.github.io/2018-08-ng-training)
-* [Get printable version](https://rstropek.github.io/2018-08-ng-training?print-pdf)
+* [Open in browser](https://rstropek.github.io/2018-10-ng-training)
+* [Get printable version](https://rstropek.github.io/2018-10-ng-training?print-pdf)
 
 ## Build and Run
 
@@ -21,12 +21,12 @@ This repository contains slides (based on *Markdown*), hands-on exercises with s
 
 * Course Organization
 * Why bother learning web and mobile technologies?
-* Node.js Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/node-fundamentals))
+* Node.js Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/node-fundamentals))
 * NPM Fundamentals
-* ECMAScript Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/ecmascript-fundamentals))
-* TypeScript Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/typescript-fundamentals))
-* RESTful Web APIs ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/rest-fundamentals))
+* ECMAScript Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/ecmascript-fundamentals))
+* TypeScript Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/typescript-fundamentals))
+* RESTful Web APIs ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/rest-fundamentals))
 * OAuth2 and OpenID Connect Fundamentals
-* WebSockets Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/websockets))
-* Docker Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/docker))
-* Angular Fundamentals ([exercises](https://github.com/rstropek/2018-08-ng-training/tree/master/angular))
+* WebSockets Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/websockets))
+* Docker Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/docker))
+* Angular Fundamentals ([exercises](https://github.com/rstropek/2018-10-ng-training/tree/master/angular))

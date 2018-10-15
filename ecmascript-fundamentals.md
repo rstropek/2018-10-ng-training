@@ -136,7 +136,7 @@ for (let value of iterable) {
 * Transforms modern JavaScript so that you can run it in old environments
 * Especially important for building consumer-facing websites
 * Huge ecosystems of [plugins](https://babeljs.io/docs/plugins/)
-* [*babel* demo](https://github.com/rstropek/2018-08-ng-training/blob/master/ecmascript-fundamentals/0030-babel/readme.md)
+* [*babel* demo](https://github.com/rstropek/2018-10-ng-training/blob/master/ecmascript-fundamentals/0030-babel/readme.md)
 
 
 <!-- .slide: class="left" -->
@@ -159,6 +159,6 @@ for (let value of iterable) {
   * [w3schools.com JavaScript Tutorial](https://www.w3schools.com/js/)
   * [What Is AMD, CommonJS, and UMD?](http://davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/)
 * Exercises
-  * [*Promise exercise*](https://github.com/rstropek/2018-08-ng-training/blob/master/ecmascript-fundamentals/9010-create-promise/readme.md)
-  * [*babel* demo](https://github.com/rstropek/2018-08-ng-training/blob/master/ecmascript-fundamentals/0030-babel/readme.md)
+  * [*Promise exercise*](https://github.com/rstropek/2018-10-ng-training/blob/master/ecmascript-fundamentals/9010-create-promise/readme.md)
+  * [*babel* demo](https://github.com/rstropek/2018-10-ng-training/blob/master/ecmascript-fundamentals/0030-babel/readme.md)
   * [w3schools.com JavaScript Quiz](https://www.w3schools.com/quiztest/quiztest.asp?qtest=JavaScript)

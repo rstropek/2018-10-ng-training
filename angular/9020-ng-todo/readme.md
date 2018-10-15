@@ -8,7 +8,7 @@ Everybody has to submit her or his best try via GitHub.
 
 ## Web API
 
-The backend Web API has been prepared for you. You can find it in [*0010-demo-api*](https://github.com/rstropek/2018-08-ng-training/tree/master/angular/0010-demo-api). Take particular note of [*demo.http*](https://github.com/rstropek/2018-08-ng-training/blob/master/angular/0010-demo-api/demo.http). It contains sample HTTP requests demonstrating how you can:
+The backend Web API has been prepared for you. You can find it in [*0010-demo-api*](https://github.com/rstropek/2018-10-ng-training/tree/master/angular/0010-demo-api). Take particular note of [*demo.http*](https://github.com/rstropek/2018-10-ng-training/blob/master/angular/0010-demo-api/demo.http). It contains sample HTTP requests demonstrating how you can:
 
 * Get all people (persons who you can assign a todo item)
 * Get a list of all todo items

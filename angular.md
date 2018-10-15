@@ -339,7 +339,7 @@ export class MyComponent {
 * [Documentation](https://angular.io/guide/service-worker-config)
 * `assetGroups`: For resources that are part of the app version
 * `dataGroups`: For data that is *not* part of the app (e.g. API results)
-* [Service worker demo application](https://github.com/rstropek/2018-08-ng-training/blob/master/angular/0060-service-worker/)
+* [Service worker demo application](https://github.com/rstropek/2018-10-ng-training/blob/master/angular/0060-service-worker/)
 
 
 <!-- .slide: class="left" -->
@@ -352,5 +352,5 @@ export class MyComponent {
   * [Angular and RxJS](https://angular.io/guide/observables)
   * [ReactiveX Library](http://reactivex.io/rxjs/manual/index.html)
 * Exercises
-  * [Introduction in RxJS](https://github.com/rstropek/2018-08-ng-training/blob/master/angular/0030-rxjs/)
+  * [Introduction in RxJS](https://github.com/rstropek/2018-10-ng-training/blob/master/angular/0030-rxjs/)
   
