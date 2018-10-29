@@ -1,5 +1,5 @@
-# @host = http://localhost:8082
-@host = https://vehicle-data.azurewebsites.net
+@host = http://localhost:8082
+# @host = https://vehicle-data.azurewebsites.net
 
 ###
 # Get a list of all years for which the database contains data
@@ -12,6 +12,7 @@ GET {{host}}/api/makes HTTP/1.1
 ###
 # Get a filtered list of makes (all makes that contain "To")
 GET {{host}}/api/makes?make=To HTTP/1.1
+Accept: application/json
 
 ###
 # Get a list of all models
